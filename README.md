@@ -48,7 +48,7 @@ Run as `./hanoi -p 7 100`
 Author
 ------
 
-Stephen Albert <stephen.a.albert@gmail.com>
+Stephen Albert <stephen@sherbet.space>
 
 License
 -------
